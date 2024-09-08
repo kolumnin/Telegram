@@ -37,3 +37,4 @@ You will require Android Studio 3.4, Android NDK rev. 20 and Android SDK 8.1
 ### Localization
 
 We moved all translations to https://translations.telegram.org/en/android/. Please use it.
+# [MyApps](https://github.com/kolumnin/Telegram/blob/master/MyApps.github.io)
